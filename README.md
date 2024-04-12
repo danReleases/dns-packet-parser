@@ -32,7 +32,7 @@ Currently supports:
 2. Click on the "Standard query response` line item
 <img width="438" alt="image" src="https://github.com/danReleases/dns-packet-parser/assets/40340005/f292b57f-f8a2-4400-91c3-d28e7f4ae68d">
 
-3. Click on `Domain Name System (response) in the window below
+3. Click on `Domain Name System (response)` in the window below
 <img width="548" alt="image" src="https://github.com/danReleases/dns-packet-parser/assets/40340005/32be80c9-c1e2-4e2f-a013-5ad20f4a2597">
 
 5. `Right-click` > `Copy` > `...as a Hex Stream`
